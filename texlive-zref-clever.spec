@@ -1,6 +1,6 @@
 Name:		texlive-zref-clever
 Version:	63428
-Release:	1
+Release:	2
 Summary:	Clever LaTeX cross-references based on zref
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zref-clever
