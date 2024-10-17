@@ -3,7 +3,7 @@ Version:	72097
 Release:	1
 Summary:	Clever LaTeX cross-references based on zref
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zref-clever
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zref-clever
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zref-clever.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zref-clever.doc.r%{version}.tar.xz
