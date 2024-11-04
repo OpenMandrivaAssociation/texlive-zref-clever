@@ -1,5 +1,5 @@
 Name:		texlive-zref-clever
-Version:	72097
+Version:	72484
 Release:	1
 Summary:	Clever LaTeX cross-references based on zref
 Group:		Publishing
